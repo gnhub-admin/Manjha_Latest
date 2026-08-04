@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416673468619",
+    "project_id": "manjha-abf76",
+    "storage_bucket": "manjha-abf76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416673468619:android:76840b43947949c5bf0b4e",
+        "android_client_info": {
+          "package_name": "com.gnhub.manjha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416673468619-vjrm6vaqn1rmpn79l44am09qovgte8hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRYJUhFetWDxbtYfMfvKdhgF7E4nWL-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416673468619-vjrm6vaqn1rmpn79l44am09qovgte8hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

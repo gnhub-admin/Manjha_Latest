@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "603369171286",
+    "project_id": "manjha-7e8ba",
+    "storage_bucket": "manjha-7e8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603369171286:android:f10ad2bd96406a85990ef7",
+        "android_client_info": {
+          "package_name": "com.gnhub.manjha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603369171286-nlsevtge15anoblrtcld2aq3nr90duuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gnhub.manjha",
+            "certificate_hash": "1f0a28dff667ff585b4cf55c847df83a1aec39ed"
+          }
+        },
+        {
+          "client_id": "603369171286-rajnj61d21rno64g14fe4np51smkk5sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gnhub.manjha",
+            "certificate_hash": "8984f23c4d8c24aea147a8d05daabff1354e2094"
+          }
+        },
+        {
+          "client_id": "603369171286-4k5r82u36ttl6ccq2rad68s6t9qfgj1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG1rE2mR-4S7WmhJVOkeHF-eJIYHC6FFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603369171286-4k5r82u36ttl6ccq2rad68s6t9qfgj1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
