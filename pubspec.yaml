@@ -48,7 +48,7 @@ dependencies:
   firebase_core: ^2.24.2
   animated_text_kit: ^4.2.2
   font_awesome_flutter: ^10.4.0
-  connectivity: ^3.0.6
+  # connectivity: ^3.0.6
   firebase_messaging: ^14.7.9
   flutter_easyloading: ^3.0.5
   geolocator: ^10.1.0
