@@ -46,14 +46,9 @@ post_install do |installer|
 
     target.build_configurations.each do |config|
 
-      # iOS minimum version
       config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '13.0'
 
-      # Firebase / Flutter plugin non-modular header fix
       config.build_settings['CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES'] = 'YES'
-
-      # Disable module generation for problematic pods
-      config.build_settings['DEFINES_MODULE'] = 'NO'
 
     end
   end
